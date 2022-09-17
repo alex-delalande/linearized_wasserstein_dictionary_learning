@@ -1,1 +1,1 @@
-# linearized_wasserstein_dictionary_learning
+# Linearized_wasserstein_dictionary_learning 
